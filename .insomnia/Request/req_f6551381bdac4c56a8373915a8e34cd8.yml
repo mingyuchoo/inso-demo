@@ -4,36 +4,41 @@ body: {}
 created: 1597345025153
 description: ""
 headers:
-  - name: Host
+  - id: pair_54fa50c51551444998df74ec4998baf3
+    name: Host
     value: jsonplaceholder.typicode.com
-  - name: Connection
+  - id: pair_b59fea5937cb41f3bb6f6870e5060646
+    name: Connection
     value: keep-alive
-  - name: User-Agent
+  - id: pair_d0a4a786d0904f71aca741c256a410b2
+    name: User-Agent
     value: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36
       (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59
-  - name: Accept
+  - id: pair_7563dcd87a354cb08ae7fcd5b0d9fef5
+    name: Accept
     value: "*/*"
-  - name: Sec-Fetch-Site
+  - id: pair_6e1580047400485d9acb26d62ec79b7d
+    name: Sec-Fetch-Site
     value: same-origin
-  - name: Sec-Fetch-Mode
+  - id: pair_efd873c90ee349b8ab9a571a22c6e968
+    name: Sec-Fetch-Mode
     value: cors
-  - name: Sec-Fetch-Dest
+  - id: pair_05afb810d79e4fb7a49015230d193acb
+    name: Sec-Fetch-Dest
     value: empty
-  - name: Referer
+  - id: pair_c47cc522f2354816a932d7b49871dabd
+    name: Referer
     value: https://jsonplaceholder.typicode.com/
-  - name: Accept-Encoding
+  - id: pair_de53b413b6ea487e94d321d74a683736
+    name: Accept-Encoding
     value: gzip, deflate, br
-  - name: Accept-Language
+  - id: pair_c337f0b7c41240a885328aa6ab88f7ad
+    name: Accept-Language
     value: en-US,en;q=0.9,ko;q=0.8
-  - name: Cookie
-    value: __cfduid=dee90b8711ae05f644de0282e0c21f1a41597344786;
-      _ga=GA1.2.1250927194.1597344788; _gid=GA1.2.203986878.1597344788; _gat=1;
-      __cfduid=dee90b8711ae05f644de0282e0c21f1a41597344786;
-      _ga=GA1.2.1250927194.1597344788; _gid=GA1.2.203986878.1597344788; _gat=1
 isPrivate: false
 metaSortKey: -1597345025153
 method: GET
-modified: 1597345025153
+modified: 1597348315923
 name: https://jsonplaceholder.typicode.com/todos/1
 parameters: []
 parentId: wrk_5832f2d18f404c69a5dcd9d348318931
