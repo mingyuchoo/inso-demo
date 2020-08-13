@@ -1,0 +1,14 @@
+_id: env_5c34d22bbf7546f49807fc455d0eb12a
+color: null
+created: 1597349471604
+data:
+  base_url: https://jsonplaceholder.typicode.com
+dataPropertyOrder:
+  "&":
+    - base_url
+isPrivate: false
+metaSortKey: 1597349471604
+modified: 1597349530046
+name: server
+parentId: env_4a27a28f5fe912bd9219f4b59c7f151d929adac6
+type: Environment

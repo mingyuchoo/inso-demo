@@ -38,7 +38,7 @@ headers:
 isPrivate: false
 metaSortKey: -1597309805436.5
 method: GET
-modified: 1597348925368
+modified: 1597349604500
 name: https://jsonplaceholder.typicode.com/posts/1
 parameters: []
 parentId: wrk_5832f2d18f404c69a5dcd9d348318931
@@ -49,4 +49,4 @@ settingRebuildPath: true
 settingSendCookies: true
 settingStoreCookies: true
 type: Request
-url: https://jsonplaceholder.typicode.com/posts/1
+url: "{{ base_url }}/posts/1"
