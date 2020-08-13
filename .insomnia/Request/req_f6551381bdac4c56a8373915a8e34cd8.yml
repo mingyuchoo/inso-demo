@@ -1,0 +1,47 @@
+_id: req_f6551381bdac4c56a8373915a8e34cd8
+authentication: {}
+body: {}
+created: 1597345025153
+description: ""
+headers:
+  - name: Host
+    value: jsonplaceholder.typicode.com
+  - name: Connection
+    value: keep-alive
+  - name: User-Agent
+    value: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36
+      (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59
+  - name: Accept
+    value: "*/*"
+  - name: Sec-Fetch-Site
+    value: same-origin
+  - name: Sec-Fetch-Mode
+    value: cors
+  - name: Sec-Fetch-Dest
+    value: empty
+  - name: Referer
+    value: https://jsonplaceholder.typicode.com/
+  - name: Accept-Encoding
+    value: gzip, deflate, br
+  - name: Accept-Language
+    value: en-US,en;q=0.9,ko;q=0.8
+  - name: Cookie
+    value: __cfduid=dee90b8711ae05f644de0282e0c21f1a41597344786;
+      _ga=GA1.2.1250927194.1597344788; _gid=GA1.2.203986878.1597344788; _gat=1;
+      __cfduid=dee90b8711ae05f644de0282e0c21f1a41597344786;
+      _ga=GA1.2.1250927194.1597344788; _gid=GA1.2.203986878.1597344788; _gat=1
+isPrivate: false
+metaSortKey: -1597345025153
+method: GET
+modified: 1597345025153
+name: https://jsonplaceholder.typicode.com/todos/1
+parameters: []
+parentId: wrk_5832f2d18f404c69a5dcd9d348318931
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: https://jsonplaceholder.typicode.com/todos/1
